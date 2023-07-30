@@ -1,4 +1,4 @@
-<h1 align="center" **bold text**>Hi there, I am Shamim Hossain</h1>
+<h1 align="center">Hi there, I am Shamim Hossain</h1>
 
 ### Frontend angular developer
 
