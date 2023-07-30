@@ -1,3 +1,5 @@
+# Hi there 👋, HI,I am Shamim Hossain
+#### Frontend angular developer
 ![](https://media.licdn.com/dms/image/D5616AQEzFdehF6wZ8Q/profile-displaybackgroundimage-shrink_350_1400/0/1690638571503?e=1696464000&v=beta&t=73L-d0WEk4Q41fOQK0vgBdWmvtilszoHDSn-Izy303M)
 
 # 💫 About Me:
