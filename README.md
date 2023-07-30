@@ -1,8 +1,10 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-![](https://media.licdn.com/dms/image/D5616AQEzFdehF6wZ8Q/profile-displaybackgroundimage-shrink_350_1400/0/1690638571503?e=1696464000&v=beta&t=73L-d0WEk4Q41fOQK0vgBdWmvtilszoHDSn-Izy303M)
-
 <h1 align="center">Hi there, I am Shamim Hossain</h1>
+
+### Front end Developer at Softlab It
+
+![](https://media.licdn.com/dms/image/D5616AQEzFdehF6wZ8Q/profile-displaybackgroundimage-shrink_350_1400/0/1690638571503?e=1696464000&v=beta&t=73L-d0WEk4Q41fOQK0vgBdWmvtilszoHDSn-Izy303M)
 
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
