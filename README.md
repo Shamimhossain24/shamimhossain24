@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-# 💫 About Me:
+# 💫 **About Me**:
 🔭 I’m currently working on  Ferkeap Ionic Project<br>👯 I’m looking to collaborate on Github<br>🌱 I’m currently learning Javascript , Typescript and Related other technology<br>💬 Ask me about
 
 
