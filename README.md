@@ -31,7 +31,7 @@
 
 ## 😂 Random Dev Meme
 
-<img src="https://rm.up.railway.app/](https://www.freecodecamp.org/news/content/images/2019/07/panel-3-1.png" width="512px"/>
+![](https://media.licdn.com/dms/image/D5616AQEzFdehF6wZ8Q/profile-displaybackgroundimage-shrink_350_1400/0/1690638571503?e=1696464000&v=beta&t=73L-d0WEk4Q41fOQK0vgBdWmvtilszoHDSn-Izy303M)
 
 [![](https://visitcount.itsvg.in/api?id=Shamimhossain24&icon=2&color=1)](https://visitcount.itsvg.in)
 
